@@ -10,21 +10,21 @@ unzip awscliv2.zip
 
 ```
 sudo ./aws/install
-aws configure
+aws confure
 
 ```
-![config](conf/lea2)
+![conf](conf/lea2)
 ```
-aws configure
+aws confure
 
 ```
-![config](conf/lea1)
+![conf](conf/lea1)
 
 ```
 aws ec2 describe-regions --output table
 
 ```
 
-![config](conf/lea)
+![conf](conf/lea)
 
 
